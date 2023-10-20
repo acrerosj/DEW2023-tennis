@@ -1,0 +1,22 @@
+{
+  "name": "dew2023-tennis",
+  "version": "1.0.0",
+  "description": "Pruebas con clases en un ejercicio de tenis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acrerosj/DEW2023-tennis.git"
+  },
+  "author": "Andrés",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acrerosj/DEW2023-tennis/issues"
+  },
+  "homepage": "https://github.com/acrerosj/DEW2023-tennis#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
